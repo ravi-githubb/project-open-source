@@ -1,2 +1,3 @@
-# project-open-source
-This is my first open source project.
+# Project Open Source
+
+* This is my first open source project.
